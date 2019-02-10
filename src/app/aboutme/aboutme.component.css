@@ -9,17 +9,37 @@
 
 /* Image style for interests labels */
 .one-img {
-	margin-top: 30px;
-	margin-left: 20px;
+	position: absolute;
+	top: 160px;
+	left: 410px;
 }
 
 .two-img {
-	margin-top: 30px;
-	margin-left: 285px;
+	position: absolute;
+	top: 160px;
+	left: 795px;
 }
 
 .three-img {
-	margin-top: 30px;
-	margin-left: 270px;
+	position: absolute;
+	top: 160px;
+	right: 630px;
 }
 
+/* Styling for green circles */
+.first-green-circle {
+	margin-top: 30px;
+	margin-left: -10px;
+}
+
+.second-green-circle {
+	margin-top: 30px;
+	margin-left: 230px;
+}
+
+.third-green-circle {
+	margin-top: 30px;
+	margin-left: 230px;
+}
+
+/* Styling for details buttons */
