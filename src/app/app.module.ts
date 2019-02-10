@@ -8,6 +8,7 @@ import { CurrentWorkComponent } from './current-work/current-work.component';
 import { EducationComponent } from './education/education.component';
 import { RoverComponent } from './rover/rover.component';
 import { HomeComponent } from './home/home.component';
+import { TestComponent } from './test/test.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { HomeComponent } from './home/home.component';
     CurrentWorkComponent,
     EducationComponent,
     RoverComponent,
-    HomeComponent
+    HomeComponent,
+    TestComponent
   ],
   imports: [
     BrowserModule,

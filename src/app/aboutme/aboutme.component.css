@@ -1,8 +1,25 @@
 /* Design control of the main title */
 .row {
-	padding-top: 60px;
+	padding-top: 30px;
 }
 
 .row-featurette{
 	padding-left: 220px;
 }
+
+/* Image style for interests labels */
+.one-img {
+	margin-top: 30px;
+	margin-left: 20px;
+}
+
+.two-img {
+	margin-top: 30px;
+	margin-left: 285px;
+}
+
+.three-img {
+	margin-top: 30px;
+	margin-left: 270px;
+}
+
