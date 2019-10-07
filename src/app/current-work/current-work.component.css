@@ -2,3 +2,7 @@
 .row {
 	text-align: center;
 }
+
+.jumbotron jumbotron-fluid1 {
+	background-color: #0FF;
+}

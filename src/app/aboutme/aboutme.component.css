@@ -10,20 +10,20 @@
 /* Image style for interests labels */
 .one-img {
 	position: absolute;
-	top: 160px;
-	left: 410px;
+	top: 22.5%;
+	left: 14.3%;
 }
 
 .two-img {
 	position: absolute;
-	top: 160px;
-	left: 795px;
+	top: 22.5%;
+	left: 39.5%;
 }
 
 .three-img {
 	position: absolute;
-	top: 160px;
-	right: 630px;
+	top: 22.5%;
+	right: 28.7%;
 }
 
 /* Styling for green circles */
@@ -41,5 +41,3 @@
 	margin-top: 30px;
 	margin-left: 230px;
 }
-
-/* Styling for details buttons */

@@ -4,16 +4,18 @@ import { AboutmeComponent } from './aboutme/aboutme.component';
 import { CurrentWorkComponent } from './current-work/current-work.component';
 import { EducationComponent } from './education/education.component';
 import { RoverComponent } from './rover/rover.component';
-import { HomeComponent } from './home/home.component';
 import { TestComponent } from './test/test.component';
+import { HomeComponent } from './home/home.component';
+import { BlogComponent } from './blog/blog.component';
 
 const routes: Routes = [
-	{ path: '', component: HomeComponent },
-	{ path: 'aboutMe', component: AboutmeComponent },
+	{ path: '', component: BlogComponent },
 	{ path: 'currentWork', component: CurrentWorkComponent },
 	{ path: 'education', component: EducationComponent },
 	{ path: 'rover', component: RoverComponent },
 	{ path: 'home', component: HomeComponent },
+	{ path: 'aboutme', component: AboutmeComponent },
+	{ path: 'blog', component: BlogComponent },
 	{ path: 'test', component: TestComponent }
 ];
 
